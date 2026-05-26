@@ -1,0 +1,14 @@
+target/
+.mvn/
+*.md
+.git/
+.github/
+.gitignore
+docker-compose.yml
+k8s/
+gradlew
+gradlew.bat
+*.gradle
+.gitpod.yml
+.devcontainer/
+.editorconfig
